@@ -1,8 +1,8 @@
 # Hi, I'm KIpchirchir Tony
 
 ## About Me
--🌱 I’m currently learning HTML/CSS and JavaSript.
-- I'm interested in web development.
+-  🌱 I’m currently learning HTML/CSS and JavaSript.
+-  I'm interested in web development.
 - 👯 I’m looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
