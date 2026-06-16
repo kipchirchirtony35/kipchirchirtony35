@@ -4,7 +4,7 @@
 
 ## Text formating 
 
-**Web development** is the procces of *creating, designing* and *maintaining website and website applications* tha runs on the `internt` ~~internets~~.
+**Web development** is the procces of *creating, designing* and *maintaining website and website applications* tha runs on the `internet` ~~internets~~.
 
 ## Links 
 
