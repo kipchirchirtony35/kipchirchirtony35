@@ -68,13 +68,13 @@ Hello! My name is **Tony**, and i am currently learning *Web development*
 
 ## Learning progres
 
-[x] ~~Learning basics HTML~~
-[x] ~~created a Github account~~
-[ ] learn CSS
-[ ] Learn Javascript programming
-[ ] Build my personal portfolio
-[ ] Learn to build a responsive website
-[ ] Learn Python programming
+- [x] ~~Learning basics HTML~~
+- [x] ~~created a Github account~~
+- [ ] learn CSS
+- [ ] Learn Javascript programming
+- [ ] Build my personal portfolio
+- [ ] Learn to build a responsive website
+- [ ] Learn Python programming
 
 ## Useful links
 
