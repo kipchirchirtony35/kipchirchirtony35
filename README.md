@@ -1,4 +1,4 @@
-# Hi, I'm KIpchirchir Tony
+# Hi, I'm Tony Kipchrchir
 
 ## About Me
 -  🌱 I’m currently learning HTML/CSS and JavaSript.
